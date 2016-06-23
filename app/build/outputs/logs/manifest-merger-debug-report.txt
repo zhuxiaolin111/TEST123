@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:2:1-71:12
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:2:1-72:12
 	package
 		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
@@ -86,7 +86,7 @@ ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:26:5-74
 	android:name
 		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:26:22-71
 application
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:28:5-69:19
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:28:5-70:19
 	android:label
 		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:32:9-41
 	android:allowBackup
@@ -161,3 +161,7 @@ ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:64:9-66:75
 		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:66:13-63
 	android:name
 		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:65:13-65
+activity#com.neusoft.individuation.Tool_Activity
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:67:8-68:19
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:67:18-47

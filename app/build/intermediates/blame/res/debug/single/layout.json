@@ -12,6 +12,10 @@
         "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tool.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\layout_tool.xml"
+    },
+    {
         "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_all_user.xml",
         "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\activity_show_all_user.xml"
     },

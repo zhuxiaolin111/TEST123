@@ -1,18 +1,18 @@
 package com.neusoft.individuation;
 
-import com.neusoft.database.MyDbHepler;
-
-import android.os.Bundle;
 import android.app.Activity;
 import android.content.ContentValues;
+import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-import android.view.Menu;
+import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import com.neusoft.database.MyDbHepler;
 
 public class RegisterActivity extends Activity implements OnClickListener{
 	private MyDbHepler helper;
@@ -60,6 +60,8 @@ public class RegisterActivity extends Activity implements OnClickListener{
 				cv.put("password", password);
 				db.insert("user", "username", cv);
 				Toast.makeText(RegisterActivity.this, "注册成功", Toast.LENGTH_SHORT).show();
+				Intent intent1 = new Intent(this,LoginActivity.class);
+				startActivity(intent1);
 				finish();
 			}
 		}

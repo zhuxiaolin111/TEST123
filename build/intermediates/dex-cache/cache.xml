@@ -2,81 +2,81 @@
 <items version="2" >
 
     <item
-        jar="F:\TEST2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="168666f961ff37b0f73533622018bfd66697ba6e">
-        <dex dex="F:\TEST2\app\build\intermediates\pre-dexed\debug\instant-run_0f04bef43c3d3c16722199dc490fcf91b24041de.jar" />
-    </item>
-    <item
-        jar="F:\TEST2\app\libs\umeng_social_sdk.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="8fc99dcc063c0b2c7f70ae8919f3f5496baabb1f">
-        <dex dex="F:\TEST2\app\build\intermediates\pre-dexed\debug\umeng_social_sdk_7623a1f5f62f1e402816144f53a622085017b72a.jar" />
-    </item>
-    <item
         jar="F:\TEST2\app\libs\libammsdk.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="db6144f812752e2f62b8811c8b9d5e4346fff151">
-        <dex dex="F:\TEST2\app\build\intermediates\pre-dexed\debug\libammsdk_29205ccfa5a50ec60c4bc9e984163306e8b7e720.jar" />
+        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_29205ccfa5a50ec60c4bc9e984163306e8b7e720\classes.dex" />
     </item>
     <item
         jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="F:\TEST2\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_4b5a6ed7e9e22e88e5c55e2e8f15ad0f8f4e50c4.jar" />
-    </item>
-    <item
-        jar="F:\TEST2\app\libs\universal-image-loader-1.9.5.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
-        <dex dex="F:\TEST2\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_d4ba9a4deb0e625b15f7c323bfd71194700c5dca.jar" />
-    </item>
-    <item
-        jar="F:\TEST2\app\libs\umeng-analytics-v6.0.1.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
-        <dex dex="F:\TEST2\app\build\intermediates\pre-dexed\debug\umeng-analytics-v6.0.1_434b34787629875050b79f6fb9ea3407a4df7c71.jar" />
-    </item>
-    <item
-        jar="F:\TEST2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="89984a02351b4e9118d5744b16d4593f059da952">
-        <dex dex="F:\TEST2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_522a02456594a2f15b2cb5af072a5b82760d96e9.jar" />
+        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_4b5a6ed7e9e22e88e5c55e2e8f15ad0f8f4e50c4\classes.dex" />
     </item>
     <item
         jar="F:\TEST2\app\libs\weibosdkcore_v3.0.1.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="119e2034c8db764d5742ec1cdbcc4aa6bdf85e7a">
-        <dex dex="F:\TEST2\app\build\intermediates\pre-dexed\debug\weibosdkcore_v3.0.1_4bdaa0245884707bc8e0cd08acf1e8857f13011f.jar" />
+        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\weibosdkcore_v3.0.1_4bdaa0245884707bc8e0cd08acf1e8857f13011f\classes.dex" />
     </item>
     <item
         jar="F:\TEST2\app\libs\utdid4all-1.0.4.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
-        <dex dex="F:\TEST2\app\build\intermediates\pre-dexed\debug\utdid4all-1.0.4_b13a33412a45c41457268534dcb6f2fe039623e3.jar" />
-    </item>
-    <item
-        jar="F:\TEST2\app\libs\android-async-http-1.4.6.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
-        <dex dex="F:\TEST2\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.6_d7540e7e9958ca708f686683f314546a61199c17.jar" />
+        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\utdid4all-1.0.4_b13a33412a45c41457268534dcb6f2fe039623e3\classes.dex" />
     </item>
     <item
         jar="F:\TEST2\app\libs\mta-sdk-1.6.2.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
-        <dex dex="F:\TEST2\app\build\intermediates\pre-dexed\debug\mta-sdk-1.6.2_9dc484b6ee8fbf875d42da5a720a2b982d84a2a9.jar" />
+        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\mta-sdk-1.6.2_9dc484b6ee8fbf875d42da5a720a2b982d84a2a9\classes.dex" />
+    </item>
+    <item
+        jar="F:\TEST2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5ff36f0e93f2bc71a3aedf3bb2af15fd1508db5">
+        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0f04bef43c3d3c16722199dc490fcf91b24041de\classes.dex" />
+    </item>
+    <item
+        jar="F:\TEST2\app\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8fc99dcc063c0b2c7f70ae8919f3f5496baabb1f">
+        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_sdk_7623a1f5f62f1e402816144f53a622085017b72a\classes.dex" />
+    </item>
+    <item
+        jar="F:\TEST2\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.5_d4ba9a4deb0e625b15f7c323bfd71194700c5dca\classes.dex" />
+    </item>
+    <item
+        jar="F:\TEST2\app\libs\umeng-analytics-v6.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
+        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v6.0.1_434b34787629875050b79f6fb9ea3407a4df7c71\classes.dex" />
+    </item>
+    <item
+        jar="F:\TEST2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="63c0bb436c0f0086c293c79426cca1af097b21ed">
+        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_522a02456594a2f15b2cb5af072a5b82760d96e9\classes.dex" />
+    </item>
+    <item
+        jar="F:\TEST2\app\libs\android-async-http-1.4.6.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.6_d7540e7e9958ca708f686683f314546a61199c17\classes.dex" />
     </item>
 
 </items>

@@ -32,8 +32,8 @@ public class MyAsyncTask extends AsyncTask<String, Void, List<Map<String, String
 
 		dialog = new ProgressDialog(context);
 		dialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
-		dialog.setTitle("Loadding");
-		dialog.setMessage("Loadding...");
+		dialog.setTitle("加载中.....");
+		dialog.setMessage("急啊！！！等着...");
 		dialog.setIcon(R.drawable.z);
 		//显示
 		dialog.show();

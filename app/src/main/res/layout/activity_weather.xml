@@ -117,7 +117,7 @@
 
             <TextView
                 android:layout_width="wrap_content"
-                android:textColor="#ffffff"
+                android:textColor="#000000"
                 android:layout_height="wrap_content"
                 android:textSize="22sp"
                 android:text="℃" />
@@ -167,6 +167,12 @@
                 android:layout_height="wrap_content"
                 android:textColor="#000000"
                 android:text="2016年5月13日 16:50:43"
+                android:textSize="20sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/jianyi"
+                android:textColor="#000000"
                 android:textSize="20sp"/>
         </LinearLayout>
 

@@ -96,8 +96,7 @@ public class LoginActivity extends Activity implements OnClickListener {
 				break;
 
 		}
-
-		if (checkBox.isChecked()) {
+	if (checkBox.isChecked()) {
 			editor.putBoolean("remember_password", true);
 			editor.putString("username", username);
 			editor.putString("password", password);

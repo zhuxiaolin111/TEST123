@@ -137,8 +137,8 @@ public class ChangeCityActivity extends Activity {
 			super.onPreExecute();
 			dialog = new ProgressDialog(ChangeCityActivity.this);
 			dialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
-			dialog.setTitle("Loadding");
-			dialog.setMessage("Loadding...");
+			dialog.setTitle("加载");
+			dialog.setMessage("加载中...");
 			dialog.setIcon(R.drawable.z);
 			//显示
 			dialog.show();

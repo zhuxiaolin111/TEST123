@@ -1,7 +1,5 @@
 package com.neusoft.individuation;
 
-import java.util.ArrayList;
-
 import android.app.ActionBar;
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,13 +9,13 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v4.view.ViewPager.OnPageChangeListener;
-import android.util.Log;
 import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.RadioGroup;
 import android.widget.RadioGroup.OnCheckedChangeListener;
 import android.widget.Toast;
+import java.util.ArrayList;
 
 public class IndexActivity extends FragmentActivity implements
 		OnCheckedChangeListener {
@@ -41,27 +39,26 @@ public class IndexActivity extends FragmentActivity implements
 	}
 
 	private void InitViewPager() {
+
 		// TODO Auto-generated method stub
 		main_viewPager = (ViewPager) findViewById(R.id.main_ViewPager);
-
 		fList = new ArrayList<Fragment>();
-
 		Fragment hotFragment = new HotFragment();
 		Fragment classificationFragment = new ClassificationFragment();
 		Fragment lingshengFragment = new LingshengFragment();
 		Fragment myFragment = new MyFragment();
-		
+
 		//传值给MyFragment
 		Intent intent = getIntent();
 		String username = intent.getStringExtra("username");
 		Bundle bundle = new Bundle();
 		bundle.putString("username", username);
 		myFragment.setArguments(bundle);
-
 		// 将各Fragment加入数组中
 		fList.add(hotFragment);
 		fList.add(classificationFragment);
 		fList.add(lingshengFragment);
+
 		fList.add(myFragment);
 
 		// 设置ViewPager的设适配器

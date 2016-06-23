@@ -86,5 +86,9 @@
     {
         "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_enter_icon.png",
         "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\list_item_enter_icon.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_bg.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\tool_bg.jpg"
     }
 ]

@@ -64,7 +64,8 @@
         <activity
             android:name="com.neusoft.action.ChangeCityActivity"
             android:label="@string/title_activity_change_city"></activity>
-
+       <activity android:name=".Tool_Activity">
+       </activity>
 
     </application>
 

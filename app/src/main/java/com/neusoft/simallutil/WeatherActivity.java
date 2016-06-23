@@ -41,6 +41,7 @@ public class WeatherActivity extends Activity {
 		winddirect = (TextView)findViewById(R.id.winddirect);
 		windpower = (TextView)findViewById(R.id.windpower);
 		updatetime = (TextView)findViewById(R.id.updatetime);
+        jianyi= (TextView) findViewById(R.id.jianyi);
 
 		try {
 			list = new MyAsyncTask(this).execute(strpath).get();
@@ -56,6 +57,10 @@ public class WeatherActivity extends Activity {
 			winddirect.setText(map.get("winddirect"));
 			windpower.setText(map.get("windpower"));
 			updatetime.setText(map.get("updatetime"));
+		//	jianyi.setText(map.get("index").toString());
+			Map<String, String> map2 = list.get(0);
+
+         //  jianyi.setText(map2.get(list.toString()));
 			SimpleAdapter adapter = new SimpleAdapter(
 					WeatherActivity.this, 
 					list, 

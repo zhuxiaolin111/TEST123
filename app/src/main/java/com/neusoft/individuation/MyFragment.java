@@ -1,14 +1,5 @@
 package com.neusoft.individuation;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
-import com.neusoft.action.AboutActivity;
-import com.neusoft.action.PersonalActivity;
-import com.neusoft.simallutil.WeatherActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -19,18 +10,32 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 
+import com.neusoft.action.AboutActivity;
+import com.neusoft.action.PersonalActivity;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
 public class MyFragment extends Fragment {
-	private List<Map<String, Object>> list;
-	private String[] strData = new String[]{"个人中心","小工具","关于"};
-	private int[] intData = new int[]{R.drawable.my,R.drawable.tool,R.drawable.about};
-	private SimpleAdapter adapter;
-	private ListView my_list_view;
-	@Override
-	public View onCreateView(LayoutInflater inflater, ViewGroup container,
-			Bundle savedInstanceState) {
-		// TODO Auto-generated method stub
-		View view = inflater.inflate(R.layout.activity_my_fragment, container, false);
-		my_list_view = (ListView)view.findViewById(R.id.my_list_view);
+    private List<Map<String, Object>> list;
+    private String[] strData = new String[]{"个人中心", "小工具", "关于"};
+
+
+    private int[] intData = new int[]{R.drawable.my, R.drawable.tool, R.drawable.about};
+    private SimpleAdapter adapter;
+    private ListView my_list_view;
+
+
+
+
+       @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
+        // TODO Auto-generated method stub
+	View view = inflater.inflate(R.layout.activity_my_fragment, container, false);
+        my_list_view = (ListView)view.findViewById(R.id.my_list_view);
 		list = new ArrayList<Map<String,Object>>();
 		for (int i = 0; i < strData.length; i++) {
 			Map<String, Object> map = new HashMap<String, Object>();
@@ -64,12 +69,14 @@ public class MyFragment extends Fragment {
 					startActivity(intent2);
 					break;
 				case 1:
-					Intent intent1 = new Intent(getActivity(),WeatherActivity.class);
+					Intent intent1 = new Intent(getActivity(),Tool_Activity.class);
 					startActivity(intent1);
 					break;
 				}
 			}
 		});
 		return view;
-	}
+
+    }
+
 }

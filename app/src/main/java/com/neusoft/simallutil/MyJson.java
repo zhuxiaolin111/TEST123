@@ -27,7 +27,7 @@ public class MyJson {
 			map.put("winddirect", jsonresult.optString("winddirect"));
 			map.put("windpower", jsonresult.optString("windpower"));
 			map.put("updatetime", jsonresult.optString("updatetime"));
-            map.put("detail",jsonresult.optString("detail"));
+            map.put("index", jsonresult.optString("index"));
 			list.add(map);
 			JSONArray jsondaily = jsonresult.optJSONArray("daily");
 			for (int i = 0; i < jsondaily.length(); i++) {
@@ -44,6 +44,7 @@ public class MyJson {
 
 				list.add(map1);
 			}
+
 		} catch (JSONException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

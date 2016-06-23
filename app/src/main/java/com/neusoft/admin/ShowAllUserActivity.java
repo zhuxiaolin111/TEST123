@@ -1,24 +1,24 @@
 package com.neusoft.admin;
 
-import java.util.List;
-import java.util.Map;
-
-import com.neusoft.database.MyDbHepler;
-import com.neusoft.individuation.R;
-
-import android.os.Bundle;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
 import android.content.DialogInterface;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.neusoft.database.MyDbHepler;
+import com.neusoft.individuation.R;
+
+import java.util.List;
+import java.util.Map;
 
 public class ShowAllUserActivity extends Activity {
 	private ListView showall_listview;
@@ -48,7 +48,8 @@ public class ShowAllUserActivity extends Activity {
 		adapter = new SimpleCursorAdapter(
 				this, 
 				R.layout.layout_show_all_user_item, 
-				cursor, 
+				cursor,
+				//必须下划线id
 				new String[]{"_id","username"}, 
 				new int[]{R.id.userid,R.id.username}, 
 				SimpleCursorAdapter.FLAG_REGISTER_CONTENT_OBSERVER);
