@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mingche.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-ldpi\\mingche.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dongman.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-ldpi\\dongman.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\youxi.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-ldpi\\youxi.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\renwu.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-ldpi\\renwu.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\fengjing.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-ldpi\\fengjing.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dongwu.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-ldpi\\dongwu.jpg"
+    }
+]

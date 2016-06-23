@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\tool.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\historyt.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\historyt.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lingsheng_ready.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\lingsheng_ready.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_textcolor.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\tab_textcolor.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\my.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_bg.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\login_bg.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lingsheng_gray.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\lingsheng_gray.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_a.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\my_a.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sss.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\sss.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_ready.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\my_ready.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\classification_a.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\classification_a.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\classification_ready.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\classification_ready.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_b.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\my_b.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hot_item_black.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\hot_item_black.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hot_item_blue.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\hot_item_blue.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\z.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\z.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lingsheng_green.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\lingsheng_green.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hot_item_ready.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\hot_item_ready.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\classification_b.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\classification_b.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weatherbg.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\weatherbg.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_enter_icon.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\list_item_enter_icon.png"
+    }
+]

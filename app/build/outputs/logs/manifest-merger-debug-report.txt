@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:2:1-71:12
+	package
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:11:22-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:21:22-65
+uses-permission#android.permission.SET_DEBUG_APP
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:22:5-72
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:22:22-69
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:23:22-75
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:24:5-71
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:24:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:25:5-74
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:25:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:26:5-74
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:26:22-71
+application
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:28:5-69:19
+	android:label
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:32:9-41
+	android:allowBackup
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:31:9-45
+	android:theme
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:33:9-56
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:29:9-64
+activity#com.neusoft.individuation.LoginActivity
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:34:9-41:20
+	android:label
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:35:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.neusoft.individuation.RegisterActivity
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:42:9-44:72
+	android:label
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:44:13-60
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:43:13-70
+activity#com.neusoft.individuation.IndexActivity
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:45:9-47:69
+	android:label
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:47:13-57
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:46:13-67
+activity#com.neusoft.action.PersonalActivity
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:49:9-51:72
+	android:label
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:51:13-60
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:50:13-63
+activity#com.neusoft.action.ChangeActivity
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:52:9-54:70
+	android:label
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:54:13-58
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:53:13-61
+activity#com.neusoft.admin.ShowAllUserActivity
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:55:9-57:77
+	android:label
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:57:13-65
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:56:13-65
+activity#com.neusoft.simallutil.WeatherActivity
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:58:9-60:71
+	android:label
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:60:13-59
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:59:13-66
+activity#com.neusoft.action.AboutActivity
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:61:9-63:69
+	android:label
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:63:13-57
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:62:13-60
+activity#com.neusoft.action.ChangeCityActivity
+ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:64:9-66:75
+	android:label
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:66:13-63
+	android:name
+		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:65:13-65

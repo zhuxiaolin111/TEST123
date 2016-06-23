@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-hdpi\\a.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-hdpi\\h.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-hdpi\\d.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-hdpi\\f.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\i.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-hdpi\\i.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\c.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-hdpi\\c.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\b.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-hdpi\\b.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\j.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-hdpi\\j.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\e.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-hdpi\\e.jpg"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g.jpg",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable-hdpi\\g.jpg"
+    }
+]

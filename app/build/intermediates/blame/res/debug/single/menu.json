@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\weather.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\menu\\weather.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\show_all_user.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\menu\\show_all_user.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\index.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\menu\\index.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\about.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\change.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\menu\\change.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\personal.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\menu\\personal.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\change_city.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\menu\\change_city.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\register.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\menu\\register.xml"
+    }
+]

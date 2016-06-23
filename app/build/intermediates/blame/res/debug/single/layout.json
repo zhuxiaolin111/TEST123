@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_weather_item.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\layout_weather_item.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_all_user.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\activity_show_all_user.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\activity_personal.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_my_item.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\layout_my_item.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_change_city_item.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\layout_change_city_item.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\activity_change.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lingsheng_fragment.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\activity_lingsheng_fragment.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_music_item.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\layout_music_item.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_weather.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\activity_weather.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_hot_item.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\layout_hot_item.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_show_all_user_item.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\layout_show_all_user_item.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_fragment.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\activity_my_fragment.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_city.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\activity_change_city.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hot_fragment.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\activity_hot_fragment.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_class_item.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\layout_class_item.xml"
+    },
+    {
+        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_class_fragment.xml",
+        "source": "F:\\TEST2\\app\\src\\main\\res\\layout\\activity_class_fragment.xml"
+    }
+]
