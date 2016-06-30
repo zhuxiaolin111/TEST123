@@ -33,8 +33,11 @@ public class Tool_Activity extends Activity {
                     case 0:
                         Intent intent1=new Intent(Tool_Activity.this, WeatherActivity.class);
                         startActivity(intent1);
+                        break;
                     case 1:
-                        Intent intent2=new Intent(Tool_Activity.this,WeatherActivity.class);
+                      //  Intent intent2=new Intent(Tool_Activity.this,MyMap_Activity_1.class);
+                       // startActivity(intent2);
+                        break;
                 }
             }
         });

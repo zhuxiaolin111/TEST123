@@ -1,167 +1,216 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:2:1-72:12
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:2:1-76:12
 	package
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:3:5-40
-		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
-		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from F:\TEST_Android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\TEST_Android\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
-		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\TEST_Android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\TEST_Android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
-		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\TEST_Android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\TEST_Android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:7:5-9:41
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
-		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\TEST_Android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\TEST_Android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:8:9-35
-		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
-		INJECTED from F:\TEST2\app\src\main\AndroidManifest.xml
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\TEST_Android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\TEST_Android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.SET_WALLPAPER
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:11:5-72
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:11:5-72
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:11:22-69
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:11:22-69
 uses-permission#android.permission.INTERNET
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:12:5-67
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:12:22-64
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:13:5-79
-	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:13:22-76
-uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:14:5-76
-	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:14:22-73
-uses-permission#android.permission.READ_PHONE_STATE
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:15:5-75
-	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:15:22-72
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:16:5-81
-	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:16:22-78
-uses-permission#android.permission.READ_LOGS
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:18:5-68
-	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:18:22-65
-uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:19:5-79
-	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:19:22-76
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:20:5-81
-	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:20:22-78
-uses-permission#android.permission.GET_TASKS
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:21:5-68
-	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:21:22-65
-uses-permission#android.permission.SET_DEBUG_APP
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:22:5-72
-	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:22:22-69
-uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:23:5-78
-	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:23:22-75
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:12:22-64
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:24:5-71
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:13:5-71
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:24:22-68
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:13:22-68
 uses-permission#android.permission.USE_CREDENTIALS
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:25:5-74
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:14:5-74
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:25:22-71
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:14:22-71
 uses-permission#android.permission.MANAGE_ACCOUNTS
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:26:5-74
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:15:5-74
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:26:22-71
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:15:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:19:5-85
+	android:name
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:19:22-82
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:22:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:24:5-75
+	android:name
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:24:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:25:22-70
 application
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:28:5-70:19
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:29:5-74:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:32:9-41
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:32:9-41
 	android:allowBackup
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:30:9-35
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:30:9-35
 	android:icon
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:31:9-45
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:31:9-45
 	android:theme
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:33:9-56
-	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:29:9-64
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:33:9-56
 activity#com.neusoft.individuation.LoginActivity
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:34:9-41:20
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:34:9-41:20
 	android:label
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:36:13-45
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:36:13-45
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:35:13-67
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:35:13-67
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:37:13-40:29
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:37:13-40:29
 action#android.intent.action.MAIN
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:38:17-69
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:38:17-69
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:38:25-66
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:38:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:39:17-77
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:39:17-77
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:39:27-74
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:39:27-74
 activity#com.neusoft.individuation.RegisterActivity
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:42:9-44:72
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:42:9-44:72
 	android:label
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:44:13-60
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:44:13-60
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:43:13-70
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:43:13-70
 activity#com.neusoft.individuation.IndexActivity
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:45:9-47:69
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:45:9-47:69
 	android:label
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:47:13-57
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:47:13-57
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:46:13-67
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:46:13-67
 activity#com.neusoft.action.PersonalActivity
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:49:9-51:72
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:49:9-51:72
 	android:label
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:51:13-60
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:51:13-60
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:50:13-63
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:50:13-63
 activity#com.neusoft.action.ChangeActivity
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:52:9-54:70
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:52:9-54:70
 	android:label
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:54:13-58
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:54:13-58
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:53:13-61
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:53:13-61
 activity#com.neusoft.admin.ShowAllUserActivity
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:55:9-57:77
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:55:9-57:77
 	android:label
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:57:13-65
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:57:13-65
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:56:13-65
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:56:13-65
 activity#com.neusoft.simallutil.WeatherActivity
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:58:9-60:71
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:58:9-60:71
 	android:label
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:60:13-59
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:60:13-59
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:59:13-66
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:59:13-66
 activity#com.neusoft.action.AboutActivity
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:61:9-63:69
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:61:9-63:69
 	android:label
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:63:13-57
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:63:13-57
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:62:13-60
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:62:13-60
 activity#com.neusoft.action.ChangeCityActivity
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:64:9-66:75
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:64:9-66:75
 	android:label
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:66:13-63
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:66:13-63
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:65:13-65
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:65:13-65
 activity#com.neusoft.individuation.Tool_Activity
-ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:67:8-68:19
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:67:9-68:20
 	android:name
-		ADDED from F:\TEST2\app\src\main\AndroidManifest.xml:67:18-47
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:67:19-48
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:70:9-72:63
+	android:value
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:72:13-61
+	android:name
+		ADDED from F:\TEST_Android\app\src\main\AndroidManifest.xml:71:13-52
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.1.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] F:\TEST_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:22:13-58

@@ -2,81 +2,130 @@
 <items version="2" >
 
     <item
-        jar="F:\TEST2\app\libs\libammsdk.jar"
+        jar="F:\TEST_Android\app\libs\android-support-v4.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="db6144f812752e2f62b8811c8b9d5e4346fff151">
-        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_29205ccfa5a50ec60c4bc9e984163306e8b7e720\classes.dex" />
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_608cae552d4952c8a34439f63b108be4d8d2310e\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jar="F:\TEST_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_4b5a6ed7e9e22e88e5c55e2e8f15ad0f8f4e50c4\classes.dex" />
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_755763bdc9cecfc054287837abe4b9b975762497\classes.dex" />
     </item>
     <item
-        jar="F:\TEST2\app\libs\weibosdkcore_v3.0.1.jar"
+        jar="F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="119e2034c8db764d5742ec1cdbcc4aa6bdf85e7a">
-        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\weibosdkcore_v3.0.1_4bdaa0245884707bc8e0cd08acf1e8857f13011f\classes.dex" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_aee0c4f9624de2e2c18d9742f810f7f656cc1365\classes.dex" />
     </item>
     <item
-        jar="F:\TEST2\app\libs\utdid4all-1.0.4.jar"
+        jar="F:\TEST_Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
-        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\utdid4all-1.0.4_b13a33412a45c41457268534dcb6f2fe039623e3\classes.dex" />
+        sha1="1626014c38768732437ec5eece87faf3b7f83cfc">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d9a459a010e4e8ae6643cd37fc8385fc9c591778\classes.dex" />
     </item>
     <item
-        jar="F:\TEST2\app\libs\mta-sdk-1.6.2.jar"
+        jar="F:\TEST_Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
-        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\mta-sdk-1.6.2_9dc484b6ee8fbf875d42da5a720a2b982d84a2a9\classes.dex" />
+        sha1="786d30e4211b000cf91fa6d90f3f4f8e7450df1e">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f2a0682da881e270e84eec6bf577d99cfd5631f3\classes.dex" />
     </item>
     <item
-        jar="F:\TEST2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="d5ff36f0e93f2bc71a3aedf3bb2af15fd1508db5">
-        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0f04bef43c3d3c16722199dc490fcf91b24041de\classes.dex" />
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70\classes.dex" />
     </item>
     <item
-        jar="F:\TEST2\app\libs\umeng_social_sdk.jar"
+        jar="F:\TEST_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="8fc99dcc063c0b2c7f70ae8919f3f5496baabb1f">
-        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_sdk_7623a1f5f62f1e402816144f53a622085017b72a\classes.dex" />
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_4187c7089897023827709646fbbed71c9c063327\classes.dex" />
     </item>
     <item
-        jar="F:\TEST2\app\libs\universal-image-loader-1.9.5.jar"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
-        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.5_d4ba9a4deb0e625b15f7c323bfd71194700c5dca\classes.dex" />
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_c9fae43cda2e1c04b2ab0de43a8f148b5b1a92fa\classes.dex" />
     </item>
     <item
-        jar="F:\TEST2\app\libs\umeng-analytics-v6.0.1.jar"
+        jar="F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
-        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v6.0.1_434b34787629875050b79f6fb9ea3407a4df7c71\classes.dex" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_a21f0df3d86cdf41f2d9da17b637c8108a82a50e\classes.dex" />
     </item>
     <item
-        jar="F:\TEST2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="63c0bb436c0f0086c293c79426cca1af097b21ed">
-        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_522a02456594a2f15b2cb5af072a5b82760d96e9\classes.dex" />
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_7cd154ea7948a4454c775db22bc00deb7ba667b3\classes.dex" />
     </item>
     <item
-        jar="F:\TEST2\app\libs\android-async-http-1.4.6.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.1\27293c440d2085cde1d859528aff6e7d3b6ae40\retrofit-2.0.1.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
-        <dex dex="F:\TEST2\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.6_d7540e7e9958ca708f686683f314546a61199c17\classes.dex" />
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.1_c6dfa2feee0f922c3b4b241a295ad3d98c347453\classes.dex" />
+    </item>
+    <item
+        jar="F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_2380e37a2e06d03eba5bf230ceb066d599117605\classes.dex" />
+    </item>
+    <item
+        jar="F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_1805879eb98cee450abf323815c9e59aa66c4016\classes.dex" />
+    </item>
+    <item
+        jar="F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_bae776c438081d8898cb587a06e5ddde068558f1\classes.dex" />
+    </item>
+    <item
+        jar="F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_19c42455fdcf849aabbd601da008887578536fe5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_e97c4d684058659f4c78fd063d89ce0d8b400297\classes.dex" />
+    </item>
+    <item
+        jar="F:\TEST_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_e8cff2e153bbb7f1f5dcdc8d2f123c0e2f1bc137\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.1\2780d858273ce1bb90f6b12e1ef0d40f7741fca\converter-gson-2.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="F:\TEST_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.1_b0c4b929ee3b4c2d4b184b2f94e54e6aa1a7b32b\classes.dex" />
     </item>
 
 </items>

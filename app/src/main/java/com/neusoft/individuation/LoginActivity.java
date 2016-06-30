@@ -104,7 +104,6 @@ public class LoginActivity extends Activity implements OnClickListener {
 			editor.clear();
 		}
 		editor.commit();
-
 	}
 
 	public static Cursor Login(String username, String password) {

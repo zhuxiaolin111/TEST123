@@ -1,94 +1,206 @@
 [
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool.png",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\tool.png"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\historyt.png",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\historyt.png"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lingsheng_ready.xml",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\lingsheng_ready.xml"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\about.png"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_enter_icon.png",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\list_item_enter_icon.png"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lingsheng_ready.xml",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\lingsheng_ready.xml"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hot_item_blue.png",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\hot_item_blue.png"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_textcolor.xml",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\tab_textcolor.xml"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\z.png",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\z.png"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my.png",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\my.png"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_ready.xml",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\my_ready.xml"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_bg.png",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\login_bg.png"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lingsheng_gray.png",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\lingsheng_gray.png"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hot_item_ready.xml",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\hot_item_ready.xml"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_a.png",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\my_a.png"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lingsheng_gray.png",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\lingsheng_gray.png"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sss.jpg",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\sss.jpg"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_ready.xml",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\my_ready.xml"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\classification_a.png",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\classification_a.png"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\classification_ready.xml",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\classification_ready.xml"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_b.png",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\my_b.png"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hot_item_black.png",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\hot_item_black.png"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sss.jpg",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\sss.jpg"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hot_item_blue.png",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\hot_item_blue.png"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my.png",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\my.png"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\z.png",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\z.png"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lingsheng_green.png",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\lingsheng_green.png"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\classification_a.png",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\classification_a.png"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hot_item_ready.xml",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\hot_item_ready.xml"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_bg.png",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\login_bg.png"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\classification_b.png",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\classification_b.png"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weatherbg.jpg",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\weatherbg.jpg"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_enter_icon.png",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\list_item_enter_icon.png"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "F:\\TEST2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_bg.jpg",
-        "source": "F:\\TEST2\\app\\src\\main\\res\\drawable\\tool_bg.jpg"
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_bg.jpg",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\tool_bg.jpg"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_b.png",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\my_b.png"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weatherbg.jpg",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\weatherbg.jpg"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_textcolor.xml",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\tab_textcolor.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\classification_ready.xml",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\classification_ready.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hot_item_black.png",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\hot_item_black.png"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_a.png",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\my_a.png"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lingsheng_green.png",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\lingsheng_green.png"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool.png",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\tool.png"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\historyt.png",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\historyt.png"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\classification_b.png",
+        "source": "F:\\TEST_Android\\app\\src\\main\\res\\drawable\\classification_b.png"
+    },
+    {
+        "merged": "F:\\TEST_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\TEST_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     }
 ]
